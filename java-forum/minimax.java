@@ -1,4 +1,4 @@
-public class Minimax {
+public class minimax {
 
   private static int savedMove;
 
