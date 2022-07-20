@@ -1,4 +1,13 @@
 public class minimax {
+  public static void main(String[] args){
+
+  newGame();
+
+  protected static int round = 0;
+
+  Minimax.max(1, 9);
+
+}
 
   private static int savedMove;
 
